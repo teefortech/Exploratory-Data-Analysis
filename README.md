@@ -24,17 +24,17 @@ We use Python and common data analysis libraries:
 ### Learning Roadmap (Steps in EDA)
 Each step in the notebook explains what we are doing and why, so learners can follow along.
 
-### 1. Data Cleaning 🧹
+### 1. Data Cleaning 
 - Handle missing values (drop / impute)
 - Remove duplicates
 - Convert data types (e.g., Date → datetime)
 
-### 2. Descriptive Statistics 📈
-Use df.describe() for summary statistics
+### 2. Descriptive Statistics 
+We use df.describe() for summary statistics
 Check distributions of numerical features
 Count unique values in categorical columns
 
-### 3. Data Visualization 🎨
+### 3. Data Visualization 
 + Univariate Analysis: histograms, bar plots
 + Bivariate Analysis: scatter plots, box plots
 + Time Series Analysis: line plots for sales over time
@@ -42,11 +42,11 @@ Count unique values in categorical columns
 - Bar chart: Top-performing regions
 - Heatmap: Correlation between numerical features
 
-### 4. Correlation & Relationships 🔍
+### 4. Correlation & Relationships 
 Create a correlation matrix
 Plot a heatmap to identify relationships between variables
 
-### 5. Insights & Business Questions 💡
+### 5. Insights & Business Questions 
 Which regions perform the best in terms of sales?
 How do sales change over time?
 Are there seasonal patterns or anomalies?
