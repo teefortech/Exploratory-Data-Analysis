@@ -52,7 +52,7 @@ How do sales change over time?
 Are there seasonal patterns or anomalies?
 
 ### Key Takeaways for Learners
-EDA is the foundation of data science → always start by understanding your data.
+EDA is the foundation of data science, always start by understanding your data.
 Even without advanced features (e.g., no profit column), you can still discover patterns and trends.
 Data visualization is a powerful tool for storytelling and communicating findings.
 
