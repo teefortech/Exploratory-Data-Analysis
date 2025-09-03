@@ -15,16 +15,13 @@ The goal is to walk through the EDA process step by step, so learners can:
 ### Tech Stack / Tools
 ![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
 Python libraries used:
-
-### 🔧 Built With
-
 - ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) → numerical computations
 - ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) → data cleaning & manipulation
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=plotly&logoColor=white) → static visualizations
 - ![Seaborn](https://img.shields.io/badge/Seaborn-009688?logo=python&logoColor=white) → Simplifies statistical plots with cleaner, more aesthetic visuals.
 - ![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) → Adds preprocessing and quick modeling to support deeper EDA.
-- ![](https://img.shields.io/badge/Main_Tool_Used-Jupyter_Notebook-orange.svg) → step-by-step documentation & coding
-- ![](https://img.shields.io/badge/Status-Complete-green.svg)
+![](https://img.shields.io/badge/Main_Tool_Used-Jupyter_Notebook-orange.svg) → step-by-step documentation & coding
+![](https://img.shields.io/badge/Status-Complete-green.svg)
 
 - ![ → static visualizations
 - jupyter notebook → step-by-step documentation & coding
