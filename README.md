@@ -13,7 +13,8 @@ The goal is to walk through the EDA process step by step, so learners can:
 - Draw meaningful insights that can be used for decision-making or modeling
 
 ### Tech Stack / Tools
-We use Python and common data analysis libraries:
+![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
+Python libraries used:
 
 - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) → data cleaning & manipulation
 - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) → numerical computations
