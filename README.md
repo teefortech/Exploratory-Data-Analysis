@@ -18,7 +18,8 @@ Python libraries used:
 
 ### 🔧 Built With
 
-- ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) → Handles fast numerical computations and array operations.
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) → numerical computations
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) → data cleaning & manipulation
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=plotly&logoColor=white) → static visualizations
 - ![Seaborn](https://img.shields.io/badge/Seaborn-009688?logo=python&logoColor=white) → Simplifies statistical plots with cleaner, more aesthetic visuals.
 - ![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) → Adds preprocessing and quick modeling to support deeper EDA.
@@ -45,6 +46,17 @@ Scikit-learn → Adds preprocessing and quick modeling to support deeper EDA.
 
 
 👉 Would you like me to map these into a step-by-step EDA workflow (Step 1: import data → Step 2: clean with Pandas → Step 3: visualize, etc.)?
+
+
+
+### 🔧 Built With
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-009688?logo=python&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 
 
 
