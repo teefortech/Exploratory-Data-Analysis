@@ -25,6 +25,7 @@ Python libraries used:
 ###
 ![](https://img.shields.io/badge/Status-Complete-green.svg)
 
+###
 
 
 > Problem
@@ -79,7 +80,9 @@ Licensed under the MIT License
 
 
 
-
+![GitHub repo size](https://img.shields.io/github/repo-size/octocat/Hello-World)
+![GitHub stars](https://img.shields.io/github/stars/octocat/Hello-World)
+![License](https://img.shields.io/github/license/octocat/Hello-World)
 
 
 
