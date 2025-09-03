@@ -18,7 +18,6 @@ We use Python and common data analysis libraries:
 - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) → data cleaning & manipulation
 - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) → numerical computations
 - matplotlib & seaborn → static visualizations
-- plotly (optional) → interactive visualizations
 - jupyter notebook → step-by-step documentation & coding
 
 ### Learning Roadmap (Steps in EDA)
@@ -64,7 +63,7 @@ Try your own EDA improvements
 Submit a pull request with your version
 
 ### License
-Licensed under the MIT License – see LICENSE for details.
+Licensed under the MIT License
 
 
 
