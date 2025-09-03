@@ -23,7 +23,7 @@ Python libraries used:
 ### 
 ![](https://img.shields.io/badge/Main_Tool_Used-Jupyter_Notebook-orange.svg) → step-by-step documentation & coding.
 ###
-![](https://img.shields.io/badge/Status-Not complete yet-green.svg)
+![](https://img.shields.io/badge/Status-Not-complete-yet-green.svg)
 
 
 
