@@ -75,9 +75,4 @@ Try your own EDA improvements
 Submit a pull request with your version
 
 ### License
-Licensed under the MIT License
-
-
-
-
-I'm
+Licensed under the MIT License.
