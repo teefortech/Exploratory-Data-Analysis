@@ -16,6 +16,15 @@ The goal is to walk through the EDA process step by step, so learners can:
 ![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
 Python libraries used:
 
+### 🔧 Built With
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-009688?logo=python&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+
 - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) → data cleaning & manipulation
 - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) → numerical computations
 - matplotlib & seaborn → static visualizations
