@@ -23,47 +23,9 @@ Python libraries used:
 ### 
 ![](https://img.shields.io/badge/Main_Tool_Used-Jupyter_Notebook-orange.svg) → step-by-step documentation & coding.
 ###
-![](https://img.shields.io/badge/Status-Complete-green.svg)
-
-- ![ → static visualizations
-- jupyter notebook → step-by-step documentation & coding
+![](https://img.shields.io/badge/Status-Not complete yet-green.svg)
 
 
-Got it ✅ — here’s a one-liner for each tool in the context of an Exploratory Data Analysis (EDA) project:
-
-Python → The programming language that ties all tools together for EDA.
-
-NumPy → Handles fast numerical computations and array operations.
-
-Pandas → Cleans, transforms, and analyzes structured tabular data.
-
-Matplotlib → Creates customizable static visualizations for insights.
-
-Seaborn → Simplifies statistical plots with cleaner, more aesthetic visuals.
-
-Scikit-learn → Adds preprocessing and quick modeling to support deeper EDA.
-
-
-👉 Would you like me to map these into a step-by-step EDA workflow (Step 1: import data → Step 2: clean with Pandas → Step 3: visualize, etc.)?
-
-
-
-### 🔧 Built With
-
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-009688?logo=python&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-
-
-
-
-
-![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
-![](https://img.shields.io/badge/Main_Tool_Used-Jupyter_Notebook-orange.svg)
-![](https://img.shields.io/badge/Status-Complete-green.svg)
 
 > Problem
 
