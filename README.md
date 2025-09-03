@@ -18,17 +18,37 @@ Python libraries used:
 
 ### 🔧 Built With
 
-- ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
-- ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)→ Handles fast numerical computations and array operations.
 - ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=plotly&logoColor=white)
-- ![Seaborn](https://img.shields.io/badge/Seaborn-009688?logo=python&logoColor=white)
-- ![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=plotly&logoColor=white)→ static visualizations
+- ![Seaborn](https://img.shields.io/badge/Seaborn-009688?logo=python&logoColor=white)→ Simplifies statistical plots with cleaner, more aesthetic visuals.
+- ![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)→ Adds preprocessing and quick modeling to support deeper EDA.
 
 - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) → data cleaning & manipulation
 - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) → numerical computations
 - matplotlib & seaborn → static visualizations
 - jupyter notebook → step-by-step documentation & coding
+
+
+Got it ✅ — here’s a one-liner for each tool in the context of an Exploratory Data Analysis (EDA) project:
+
+Python → The programming language that ties all tools together for EDA.
+
+NumPy → Handles fast numerical computations and array operations.
+
+Pandas → Cleans, transforms, and analyzes structured tabular data.
+
+Matplotlib → Creates customizable static visualizations for insights.
+
+Seaborn → Simplifies statistical plots with cleaner, more aesthetic visuals.
+
+Scikit-learn → Adds preprocessing and quick modeling to support deeper EDA.
+
+
+👉 Would you like me to map these into a step-by-step EDA workflow (Step 1: import data → Step 2: clean with Pandas → Step 3: visualize, etc.)?
+
+
+
 
 
 ![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
