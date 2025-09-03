@@ -23,10 +23,10 @@ Python libraries used:
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=plotly&logoColor=white) → static visualizations
 - ![Seaborn](https://img.shields.io/badge/Seaborn-009688?logo=python&logoColor=white) → Simplifies statistical plots with cleaner, more aesthetic visuals.
 - ![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) → Adds preprocessing and quick modeling to support deeper EDA.
+- ![](https://img.shields.io/badge/Main_Tool_Used-Jupyter_Notebook-orange.svg) → step-by-step documentation & coding
+- ![](https://img.shields.io/badge/Status-Complete-green.svg)
 
-- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) → data cleaning & manipulation
-- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) → numerical computations
-- matplotlib & seaborn → static visualizations
+- ![ → static visualizations
 - jupyter notebook → step-by-step documentation & coding
 
 
