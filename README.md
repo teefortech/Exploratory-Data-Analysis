@@ -20,6 +20,15 @@ We use Python and common data analysis libraries:
 - matplotlib & seaborn → static visualizations
 - jupyter notebook → step-by-step documentation & coding
 
+
+![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
+![](https://img.shields.io/badge/Main_Tool_Used-Jupyter_Notebook-orange.svg)
+![](https://img.shields.io/badge/Status-Complete-green.svg)
+
+> Problem
+
+
+
 ### Learning Roadmap (Steps in EDA)
 Each step in the notebook explains what we are doing and why, so learners can follow along.
 
@@ -64,6 +73,21 @@ Submit a pull request with your version
 
 ### License
 Licensed under the MIT License
+
+
+
+
+
+
+
+
+
+
+![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
+![](https://img.shields.io/badge/Main_Tool_Used-Jupyter_Notebook-orange.svg)
+![](https://img.shields.io/badge/Status-Complete-green.svg)
+
+> Problem
 
 
 
