@@ -18,11 +18,10 @@ Python libraries used:
 
 ### 🔧 Built With
 
-- ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)→ Handles fast numerical computations and array operations.
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=plotly&logoColor=white)→ static visualizations
-- ![Seaborn](https://img.shields.io/badge/Seaborn-009688?logo=python&logoColor=white)→ Simplifies statistical plots with cleaner, more aesthetic visuals.
-- ![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)→ Adds preprocessing and quick modeling to support deeper EDA.
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) → Handles fast numerical computations and array operations.
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=plotly&logoColor=white) → static visualizations
+- ![Seaborn](https://img.shields.io/badge/Seaborn-009688?logo=python&logoColor=white) → Simplifies statistical plots with cleaner, more aesthetic visuals.
+- ![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) → Adds preprocessing and quick modeling to support deeper EDA.
 
 - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) → data cleaning & manipulation
 - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) → numerical computations
